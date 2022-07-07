@@ -1,2 +1,2 @@
 # GRIP-THE-SPARK-JULY
-PROJECT 1 : Unsupervised Machine Learning
+PROJECT 1 : Supervised Machine Learning
